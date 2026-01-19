@@ -77,6 +77,7 @@ export default function Home() {
             <Head>
                 <title>TechScanner Pro</title>
                 <meta name="description" content="Advanced Infrastructure Analysis" />
+                <link rel="icon" href="/favicon.png" type="image/png" />
             </Head>
 
             <div className={styles.container}>
